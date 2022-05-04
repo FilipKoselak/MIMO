@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_introduction" path="topics/c_introduction.html"/>
+   <appContext helpID="c_installing_the_application"
+               path="topics/c_installing_the_application.html"/>
+   <appContext helpID="t_installing" path="topics/t_installing.html"/>
+   <appContext helpID="c_lesson" path="topics/c_lesson.html"/>
+   <appContext helpID="t_how_to_learn_with_mimo"
+               path="topics/t_how_to_learn_with_mimo.html"/>
+   <appContext helpID="c_other_functions" path="topics/c_other_functions.html"/>
+   <appContext helpID="t_using_other_funtions_of_mimo"
+               path="topics/t_using_other_functions_of_mimo.html"/>
+   <appContext helpID="c_settings" path="topics/c_settings.html"/>
+   <appContext helpID="t_settings" path="topics/t_settings.html"/>
+   <appContext helpID="c_introduction" path="topics/c_introduction.html"/>
+   <appContext helpID="c_installing_the_application"
+               path="topics/c_installing_the_application.html"/>
+   <appContext helpID="t_installing" path="topics/t_installing.html"/>
+   <appContext helpID="c_lesson" path="topics/c_lesson.html"/>
+   <appContext helpID="t_how_to_learn_with_mimo"
+               path="topics/t_how_to_learn_with_mimo.html"/>
+   <appContext helpID="c_other_functions" path="topics/c_other_functions.html"/>
+   <appContext helpID="t_using_other_funtions_of_mimo"
+               path="topics/t_using_other_functions_of_mimo.html"/>
+   <appContext helpID="c_settings" path="topics/c_settings.html"/>
+   <appContext helpID="t_settings" path="topics/t_settings.html"/>
+</map>

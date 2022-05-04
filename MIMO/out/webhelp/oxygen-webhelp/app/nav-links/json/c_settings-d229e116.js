@@ -1,0 +1,1 @@
+define({"topics":[{"title":"How to change the settings","shortdesc":"<p class=\"shortdesc\">Changing the settings<\/p>","href":"t_settings.html","attributes":{"data-id":"t_settings"},"menu":{"hasChildren":false},"tocID":"t_settings-d229e129","topics":[]}]});
