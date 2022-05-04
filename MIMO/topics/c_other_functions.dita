@@ -8,7 +8,7 @@
             <li><b>Leaderboard</b><fig id="fig_xmv_cj4_ftb">
                     <title>Leaderboard</title>
                     <image
-                        href="../../../../Pulpit/studia/Projekt%20zaliczeniowy/Skriny/elements/Mimo_leaderboard.jpg"
+                        href="../Skriny/elements/Mimo_leaderboard.jpg"
                         width="150" height="300" id="image_ymv_cj4_ftb"/>
                 </fig><p>On leaderboard you can see your current standings, check your league and
                     see your competition. The leaderboard is updated every week. There are five
@@ -17,14 +17,14 @@
             <li><b>Community</b><fig id="fig_y4h_fk4_ftb">
                     <title>Community</title>
                     <image
-                        href="../../../../Pulpit/studia/Projekt%20zaliczeniowy/Skriny/elements/Mimo_elements_community.jpg"
+                        href="../Skriny/elements/Mimo_elements_community.jpg"
                         width="150" height="300" id="image_z4h_fk4_ftb"/>
                 </fig><p>You can use this feature to communicate with the community of learners and
                     look for useful information.</p></li>
             <li><b>Mimo store</b><fig id="fig_qnq_gn4_ftb">
                     <title>Mimo Store</title>
                     <image
-                        href="../../../../Pulpit/studia/Projekt%20zaliczeniowy/Skriny/elements/Mimo_mimostore.jpg"
+                        href="../Skriny/elements/Mimo_mimostore.jpg"
                         width="150" height="300" id="image_rnq_gn4_ftb"/>
                 </fig><p>You receive coins after completing lessons. You can access Mimo Store to
                     exchange your coins for: streak freeze, streak repair and league protection.
@@ -35,7 +35,7 @@
             <li>Activity<fig id="fig_xhf_3t4_ftb">
                     <title>Activity</title>
                     <image
-                        href="../../../../Pulpit/studia/Projekt%20zaliczeniowy/Skriny/elements/Mimo_activity.jpg"
+                        href="../Skriny/elements/Mimo_activity.jpg"
                         width="150" height="300" id="image_yhf_3t4_ftb"/>
                 </fig><p>Activity tabs shows you the days when you completed lessons. It shows you
                     your current streak as well. The streak is the number of days in a row you have
